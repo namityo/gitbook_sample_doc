@@ -20,3 +20,7 @@ Gitbookを利用する際は **Node.js** が必要になります。
 `./node_modules/.bin/gitbook build` を実行してください。
 
 `_book` フォルダに生成されたファイルをWeb上にアップロードすれば完了です。
+
+## ゼロから作るよりもスタートアップを利用するといい
+
+https://www.gitbook.com/book/azu/gitbook-starter-kit/details
