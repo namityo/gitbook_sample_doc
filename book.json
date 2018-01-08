@@ -1,0 +1,11 @@
+{
+    "title": "Gitbookでドキュメント作成",
+    "author": "Namiki Kazuma",
+    "language": "jp",
+    "plugins": [
+        "-sharing",
+        "hide-published-with",
+        "hints",
+        "japanese-support"
+    ]
+}

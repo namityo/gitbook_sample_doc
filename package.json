@@ -1,0 +1,10 @@
+{
+  "name": "gitbook-sample-doc",
+  "version": "0.0.1",
+  "description": "test",
+  "author": "Namiki Kazuma",
+  "license": "MIT",
+  "dependencies": {
+    "gitbook-cli": "2.3.2"
+  }
+}
